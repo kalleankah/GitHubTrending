@@ -1,6 +1,6 @@
 # github_trending
 
-A new Flutter project.
+An implementation of GitHub's REST API for viewing the trending projects on GitHub.
 
 ## Getting Started
 
