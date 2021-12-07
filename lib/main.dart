@@ -214,6 +214,7 @@ class RepoView extends StatelessWidget {
         style: const TextStyle(color: Colors.white),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: <Widget>[
             Query(
                 options: QueryOptions(
